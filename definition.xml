@@ -1,0 +1,9 @@
+<Lua-Script>
+    <Name>Rainbow</Name>
+    <Description>Say something in rainbow styled text.</Description>
+    <File>rainbow.lua</File>
+    <Author>isoldbreakfast</Author>
+    <Team>isoldbreakfast</Team>
+    <Website>http://github.com/rye761</Website>
+    <License>MIT</License>
+</Lua-Script>
